@@ -6,7 +6,8 @@
   </a>
 </p>
 
-<br><br>
+<br>
+
 
 ## **🧠 About me**
 
@@ -67,7 +68,9 @@
          alt="Python" title="Python" height="42"/>
   </a>
   &nbsp;
-   <a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="42">
+   <a href="https://www.djangoproject.com/">
+	   <img alt="Django" title="Django" 
+		   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="42">
   &nbsp;
     <a href="https://www.r-project.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
