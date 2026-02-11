@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=lightblue&size=25&center=true&vCenter=true&width=600&height=100&lines=Hope+You+Are+Having+A+Great+Day..&hearts;++;Computer+Science+Student,;AI+and+Data+Science,;Lifelong+Learner/Researcher <3">
   </a>
 </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <br>
 
 	
