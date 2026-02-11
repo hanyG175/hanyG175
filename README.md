@@ -2,7 +2,8 @@
 <h1 align="center"><b>Hi , I'm Hani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=lightblue&size=25&center=true&vCenter=true&width=600&height=100&lines=Hope+You+Are+Having+A+Great+Day..&hearts;++;Computer+Science+Student,;AI+and+Data+Science,;Lifelong+Learner/Researcher <3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=lightblue&size=25&center=true&vCenter=true&width=600&height=100&lines=Hope+You+Are+Having+A+Great+Day..&hearts;++;Computer+Science+Student,;AI+and+Data+Science,;Lifelong+Learner/Researcher <3">
+  </a>
 </p>
 
 <br>
@@ -16,22 +17,19 @@
 
 📊 Interested in machine learning pipelines, data analysis, and clean project structure
 
-♟️ Chess player (blitz enjoyer)
-
 🌙 Night owl who codes better after midnight
-
----
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 
-### 💻 Languages
+### 💻 Languages / Frameworks 
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
          alt="Python" title="Python" height="42"/>
   </a>
+
   &nbsp;
     <a href="https://www.r-project.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
