@@ -20,8 +20,8 @@
 
 🌙 Night owl who codes better after midnight
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -31,6 +31,11 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
          alt="Python" title="Python" height="42"/>
+  </a>
+  &nbsp;
+    <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
+         alt="R" title="R" height="42"/>
   </a>
   &nbsp;
   <a href="https://www.java.com/" target="_blank">
@@ -49,13 +54,19 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 📊 Data & AI
 <p>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
          alt="Pandas" title="Pandas" height="42"/>
+  </a>
+  &nbsp;
+   <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+         alt="Matplotlib" title="Matplotlib" height="42"/>
   </a>
   &nbsp;
   <a href="https://numpy.org/" target="_blank">
@@ -67,14 +78,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
          alt="Scikit-learn" title="Scikit-learn" height="42"/>
   </a>
-  &nbsp;
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
-         alt="Jupyter Notebook" title="Jupyter Notebook" height="42"/>
+    &nbsp;
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+         alt="Pytorch" title="Pytorch" height="42"/>
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 🛠 Tools
 <p>
@@ -98,6 +110,4 @@
          alt="Linux" title="Linux" height="42"/>
   </a>
 </p>
-
-  </a></code>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
