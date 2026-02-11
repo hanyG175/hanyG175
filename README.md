@@ -18,8 +18,6 @@
 
 ♟️ Chess player (blitz enjoyer)
 
-🎨 Into art, photography, fashion, and meaningful movies
-
 🌙 Night owl who codes better after midnight
 
 
@@ -31,60 +29,60 @@
 
 <h3>Languages</h3>
 <p>
-  <a href="https://www.python.org/" target="_blank">
+  <code><a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
          alt="Python" title="Python" height="42"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
+  </a></code>
+  <code><a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
          alt="Java" title="Java" height="42"/>
   </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank">
+  <code><a href="https://en.cppreference.com/w/c" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
          alt="C" title="C" height="42"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
+  </a></code>
+  <code></code><a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
          alt="SQL" title="SQL" height="42"/>
   </a>
-</p>
+</p></code>
 
 <h3>Data & AI</h3>
 <p>
-  <a href="https://pandas.pydata.org/" target="_blank">
+  <code><a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
          alt="pandas" title="pandas" height="42"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
+  </a></code>
+  <code><a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
          alt="NumPy" title="NumPy" height="42"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
+  </a></code>
+  <code><a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
          alt="scikit-learn" title="scikit-learn" height="42"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
+  </a></code>
+  <code><a href="https://jupyter.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
          alt="Jupyter Notebook" title="Jupyter Notebook" height="42"/>
-  </a>
+  </a></code>
 </p>
 
 <h3>Tools</h3>
 <p>
-  <a href="https://git-scm.com/" target="_blank">
+  <code><a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
          alt="Git" title="Git" height="42"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
+  </a></code>
+  <code><a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
          alt="GitHub" title="GitHub" height="42"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
+  </a></code>
+  <code><a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
          alt="VS Code" title="VS Code" height="42"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
+  </a></code>
+  <code><a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
          alt="Linux" title="Linux" height="42"/>
-  </a>
+  </a></code>
 </p>
